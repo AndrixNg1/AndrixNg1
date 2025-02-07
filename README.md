@@ -13,7 +13,7 @@
 - **Tools**: Git, VSCode,...
 
 ### 🌐 **Find Me Here**:
-- **Portfolio**: [andrix-ngoyi.42web.io](https://andrix-ngoyi.42web.io)
+- **Portfolio**: [andrixngoyi.vercel.app](https://andrixngoyi.vercel.app)
 - **GitHub**: [github.com/AndrixNg1](https://github.com/AndrixNg1)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/andrix-ngoyi-469662321)
 - **Instagram**: [Instagram](https://www.instagram.com/andrix_ngoyi/profilecard/?igsh=MWM0NGQwYWZpNnFlZA==)
