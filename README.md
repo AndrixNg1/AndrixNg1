@@ -57,11 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&theme=radical&cache_seconds=30" />
 </p>
 
----
-
-### ⚡ Fun Fact
-
-> I code PyQt5 by day and React.js by night — switching stacks like a DJ switches beats. 🎧🔥
-
----
-
