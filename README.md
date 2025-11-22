@@ -34,8 +34,8 @@ My mission is to drive digital transformation through concrete, high-performing,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Andrix's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
+  <img height="180em" src="./github-stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
