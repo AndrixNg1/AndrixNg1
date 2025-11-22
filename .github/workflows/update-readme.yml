@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v0.2.1
+        uses: anuraghazra/github-readme-stats@main
         with:
           username: AndrixNg1
           token: ${{ secrets.GH_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
           output: github-stats.svg
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@v0.2.1
+        uses: anuraghazra/github-readme-stats@main
         with:
           username: AndrixNg1
           token: ${{ secrets.GH_TOKEN }}
