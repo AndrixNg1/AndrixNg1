@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # toutes les 6 heures
+    - cron: '0 */6 * * *' # toutes les 6h
   push:
     branches:
       - main
@@ -12,23 +12,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Generate GitHub Stats
-      uses: anuraghazra/github-readme-stats@v0.2.1
-      with:
-        username: AndrixNg1
-        token: ${{ secrets.GH_TOKEN }}
-        include_private: true
-        show_icons: true
-        theme: radical
-        output: ./github-stats.svg
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@v0.2.1
+        with:
+          username: AndrixNg1
+          token: ${{ secrets.GH_TOKEN }}
+          include_private: true
+          show_icons: true
+          theme: radical
+          output: github-stats.svg
 
-    - name: Commit and Push stats
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        git add github-stats.svg
-        git commit -m "Update GitHub Stats"
-        git push
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@v0.2.1
+        with:
+          username: AndrixNg1
+          token: ${{ secrets.GH_TOKEN }}
+          layout: compact
+          theme: radical
+          output: top-langs.svg
+
+      - name: Commit and push SVGs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-stats.svg top-langs.svg
+          git commit -m "Update GitHub Stats and Top Languages" || echo "No changes to commit"
+          git push
