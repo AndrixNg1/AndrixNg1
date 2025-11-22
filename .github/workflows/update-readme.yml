@@ -15,24 +15,33 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          username: AndrixNg1
-          token: ${{ secrets.GH_TOKEN }}
-          include_private: true
-          show_icons: true
-          theme: radical
-          output: github-stats.svg
+          node-version: '20'
 
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@main
-        with:
-          username: AndrixNg1
-          token: ${{ secrets.GH_TOKEN }}
-          layout: compact
-          theme: radical
-          output: top-langs.svg
+      - name: Install dependencies
+        run: |
+          npm install github-readme-stats
+
+      - name: Generate GitHub Stats SVG
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          npx github-readme-stats \
+            --username AndrixNg1 \
+            --token $GH_TOKEN \
+            --include_private \
+            --show_icons \
+            --theme radical \
+            --output github-stats.svg
+
+          npx github-readme-stats \
+            --username AndrixNg1 \
+            --token $GH_TOKEN \
+            --layout compact \
+            --theme radical \
+            --output top-langs.svg
 
       - name: Commit and push SVGs
         run: |
