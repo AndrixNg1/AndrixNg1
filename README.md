@@ -27,5 +27,18 @@ My mission is to drive digital transformation through concrete, high-performing,
   <a href="https://www.linkedin.com/in/andrix-ngoyi-469662321" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Andrix's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+Always learning, always creating, always building solutions that make a difference.
