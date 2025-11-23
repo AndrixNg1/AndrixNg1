@@ -17,6 +17,18 @@ My mission is to drive digital transformation through concrete, high-performing,
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/AndrixNg1">
+    <img src="https://andrix-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  
+  <img src="https://andrix-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://andrixngoyi.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
@@ -30,18 +42,5 @@ My mission is to drive digital transformation through concrete, high-performing,
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/AndrixNg1">
-    <img src="https://andrix-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  
-  <img src="https://andrix-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 Always learning, always creating, always building solutions that make a difference.
