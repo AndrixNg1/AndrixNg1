@@ -28,7 +28,6 @@ My mission is to drive digital transformation through concrete, high-performing,
 </p>
 
 ---
-
 <p align="center">
   <a href="https://andrixngoyi.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
@@ -40,7 +39,4 @@ My mission is to drive digital transformation through concrete, high-performing,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 ---
-### ⚡ Fun Fact
-Always learning, always creating, always building solutions that make a difference.
