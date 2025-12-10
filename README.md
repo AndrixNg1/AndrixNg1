@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hello, I’m Andrix Ngoyi 👋</h1>
 <h3 align="center">⚡ Fullstack Developer · Creative Technologist · Digital Architect</h3>
 
@@ -26,14 +29,14 @@ I push digital transformation with concrete, impactful and well-structured solut
   <tr>
     <td align="center">
       <img 
-        src="https://readme-stats-git-master-andrixng1s-projects.vercel.app/api?username=AndrixNg1&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+        src="https://andrix-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
         alt="GitHub Stats"
         height="170"
       />
     </td>
     <td align="center">
       <img 
-        src="https://readme-stats-git-master-andrixng1s-projects.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&langs_count=12&count_private=true&hide=css,html&theme=radical"
+        src="https://andrix-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&langs_count=12&count_private=true&hide=css,html&theme=radical"
         alt="Top Languages"
         height="170"
       />
