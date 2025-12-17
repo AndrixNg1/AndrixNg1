@@ -23,29 +23,6 @@ I push digital transformation with concrete, impactful and well-structured solut
 
 ---
 
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://andrix-readme-stats.vercel.app/api?username=AndrixNg1&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-        alt="GitHub Stats"
-        height="170"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://andrix-readme-stats.vercel.app/api/top-langs/?username=AndrixNg1&layout=compact&langs_count=12&count_private=true&hide=css,html&theme=radical"
-        alt="Top Languages"
-        height="170"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔗 Links
 
 <p align="center">
