@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hello, I'm Andrix Ngoyi 👋</h1>
 
 <h3 align="center">
@@ -53,4 +52,3 @@ To build resilient, elegant, and impactful digital systems that empower people a
 <p align="center">
   <strong>Useful software. Thoughtful architecture. Long-term impact.</strong>
 </p>
-```
