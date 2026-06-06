@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hello, I'm Andrix Ngoyi 👋</h1>
 
 <h3 align="center">
@@ -24,21 +25,11 @@
 
 ## About Me
 
-I build performant, scalable and user-centered digital products.
+I focus on building digital systems that solve practical problems and create long-term value.
 
-I work across the full software lifecycle: product thinking, architecture, frontend, backend, mobile, APIs, databases, cloud deployment, automation and continuous improvement.
+My work spans fullstack development, backend engineering, and software architecture, with a strong interest in designing scalable and maintainable products. I enjoy working across the entire development lifecycle—from product thinking and system design to deployment and continuous improvement.
 
-- Fullstack product engineering
-- Scalable backend architecture
-- High-quality UI/UX implementation
-- Web and mobile application development
-- REST API design and integration
-- Database modeling and optimization
-- Cloud deployment and CI/CD
-- Authentication and authorization systems
-- Performance optimization
-- Debugging, clean code and maintainable architecture
-- Digital product strategy and technical problem-solving
+As a developer from the Democratic Republic of Congo (DRC), I am particularly interested in creating technology that adapts to real-world constraints, where infrastructure and resources are often imperfect. I believe the best solutions are not necessarily the most complex, but the ones that are reliable, efficient, and sustainable.
 
 ---
 
@@ -57,8 +48,9 @@ I work across the full software lifecycle: product thinking, architecture, front
 
 ## Vision
 
-Build impactful, elegant and resilient systems that scale with users and empower innovation.
+To build resilient, elegant, and impactful digital systems that empower people and businesses, especially within emerging technology ecosystems.
 
 <p align="center">
-  <strong>Useful software. Clean execution. Long-term impact.</strong>
+  <strong>Useful software. Thoughtful architecture. Long-term impact.</strong>
 </p>
+```
